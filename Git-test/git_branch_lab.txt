@@ -17,4 +17,8 @@ second merge
 second merge
 second merge
 
+<<<<<<< HEAD
 <!-- commented -->
+=======
+<!-- comment -->
+>>>>>>> develop-2

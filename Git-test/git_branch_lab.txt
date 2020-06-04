@@ -1,7 +1,18 @@
 For Git branch Develop-2
 
+master
+master
+master
+
+For Git merge form master
 Develop-2
 Develop-2
 Develop-2
 
 For Git merge from develop-2
+
+
+second merge
+second merge
+second merge
+second merge

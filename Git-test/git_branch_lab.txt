@@ -21,6 +21,17 @@ second merge
 <!-- comment -->
 
 
+<<<<<<< HEAD
 Git rebase lab
 Git rebase lab
 Git rebase lab
+=======
+
+
+
+
+
+Git rebase for lab(develop)
+Git rebase for lab(develop)
+Git rebase for lab(develop)
+>>>>>>> 595c970... update for rebase

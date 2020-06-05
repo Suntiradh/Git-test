@@ -19,6 +19,7 @@ second merge
 
 <!-- commented -->
 <!-- comment -->
+<<<<<<< HEAD
 
 
 Git rebase lab
@@ -33,3 +34,8 @@ none conflict
 Updated
 Updated
 Updated
+=======
+test
+test
+test
+>>>>>>> f60d92c46e478e48501af7d8b7c84304915e1f6f

@@ -22,10 +22,13 @@ second merge
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git rebase lab
 Git rebase lab
 Git rebase lab
 =======
+=======
+>>>>>>> refs/remotes/origin/develop
 
 
 
@@ -33,5 +36,9 @@ Git rebase lab
 
 Git rebase for lab(develop)
 Git rebase for lab(develop)
+<<<<<<< HEAD
 Git rebase for lab(develop)
 >>>>>>> 595c970... update for rebase
+=======
+Git rebase for lab(develop)
+>>>>>>> refs/remotes/origin/develop

@@ -17,8 +17,10 @@ second merge
 second merge
 second merge
 
-<<<<<<< HEAD
 <!-- commented -->
-=======
 <!-- comment -->
->>>>>>> develop-2
+
+
+Git rebase lab
+Git rebase lab
+Git rebase lab
